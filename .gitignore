@@ -8,7 +8,7 @@ venv/
 .env
 
 # Secrets folder (if you have JSON keys here)
-# secrets/gee-key.json
+secrets/gee-key.json
 
 # Editor settings
 .vscode/
